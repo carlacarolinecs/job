@@ -1,3 +1,1 @@
-print("Este arquivo foi criado dentro do RStudio")
-
-print("E agora ele vive no GitHub")
+print("Deletei muitas coisas, pois estava fazendo testes e tentando conhecer um pouco do funcionamento desta ferramenta.")
